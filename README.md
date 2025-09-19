@@ -1,22 +1,10 @@
-<!-- Banner (Optional) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kvsnr113/kvsnr113/main/banner.png" alt="banner" />
-</p>
+# GitHub Stats
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=kvsnr113&show_icons=true&count_private=true&hide_border=true&theme=transparent)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvsnr113&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvsnr113&layout=compact&theme=tokyonight" height="150"/>
-</p>
+# Profile Overview
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvsnr113&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1000%20hrs-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-### I'm an Early Bird 🐤
+- Stars: ![Stars](https://img.shields.io/github/stars/kvsnr113?style=flat&color=lightgrey)
+- Followers: ![Followers](https://img.shields.io/github/followers/kvsnr113?style=flat&color=lightgrey)
+- Forks: ![Forks](https://img.shields.io/github/forks/kvsnr113/SenseiiX?style=flat&color=lightgrey)
+- Public Repos: ![Repos](https://img.shields.io/badge/Public%20Repos-1-lightgrey)
