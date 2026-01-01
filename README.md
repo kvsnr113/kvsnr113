@@ -4,5 +4,4 @@
 
 ![Top Langs](https://stats-github-readme.vercel.app/api/top-langs/?username=kvsnr113&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kvsnr113&theme=tokyonight)
 
